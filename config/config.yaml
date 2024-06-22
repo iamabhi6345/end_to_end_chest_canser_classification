@@ -7,7 +7,4 @@ data_ingestion:
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 
-  # above for data ingestion
 
-
-  
