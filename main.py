@@ -52,6 +52,7 @@ except Exception as e:
 
 STAGE_NAME = "Evaluation stage"
 try:
+   # dagshub.init(repo_owner='iamabhi6345', repo_name='end_to_end_chest_canser_classification_using_dvc_mlflow', mlflow=True)
    logger.info(f"*******************")
    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
    model_evalution = EvaluationPipeline()
