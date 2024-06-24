@@ -49,8 +49,8 @@ set MLFLOW_TRACKING_PASSWORD=e990307e8b63feb757191971a07c8b753e601a7c
 ### DVC cmd
 
 1. dvc init
-2. dvc repro
-3. dvc dag
+2. dvc dag
+3. dvc repro
 
 
 ## About MLflow & DVC
